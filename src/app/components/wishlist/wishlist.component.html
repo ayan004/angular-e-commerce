@@ -1,0 +1,37 @@
+<!-- <p>wishlist works!</p> -->
+<!-- "name" : "furniture 8",
+      "description" : "This is woolen cum plastic furniture-8",
+      "measurements" : "H25 cm-8",
+      "material" : "Material name-8",
+      "wire": "Wire name-8",
+      "condition": "Brand new-8",
+      "sku number": "SKU number-8",
+      "shipping": "Shipping Worldwide-8",
+      "warranty": "1 year-8",
+      "delivery": "Choose country-8",
+      "id": 8  -->
+
+<div class="container">
+  <div class="furnitureDetails" *ngFor="let item of wishlist">
+    <h2>Name: {{ item.name }}</h2>
+    <span>Description: {{ item.description }}</span
+    ><br />
+    <span>Measurements: {{ item.measurements }}</span
+    ><br />
+    <span>Material: {{ item.material }}</span
+    ><br />
+    <span>Wire: {{ item.wire }}</span
+    ><br />
+    <span>Condition: {{ item.condition }}</span
+    ><br />
+    <span>SKU Number: {{ item["sku number"] }}</span
+    ><br />
+    <span>Shipping: {{ item.shipping }}</span
+    ><br />
+    <span>Warranty: {{ item.warranty }}</span
+    ><br />
+    <span>Delivery: {{ item.delivery }}</span>
+    <br />
+    <br />
+  </div>
+</div>

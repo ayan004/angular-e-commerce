@@ -1,0 +1,108 @@
+{
+  "furnitures": [
+    {
+      "name" : "furniture 1",
+      "description" : "This is wooden furniture-1",
+      "measurements" : "H25 cm-1",
+      "material" : "Material name-1",
+      "wire": "Wire name-1",
+      "condition": "Brand new-1",
+      "sku number": "SKU number-1",
+      "shipping": "Shipping Worldwide-1",
+      "warranty": "1 year-1",
+      "delivery": "Choose country-1",
+      "id": 1
+    },
+    {
+      "name" : "furniture 2",
+      "description" : "This is steel furniture-2",
+      "measurements" : "H25 cm-2",
+      "material" : "Material name-2",
+      "wire": "Wire name-2",
+      "condition": "Brand new-2",
+      "sku number": "SKU number-2",
+      "shipping": "Shipping Worldwide-2",
+      "warranty": "1 year-2",
+      "delivery": "Choose country-2",
+      "id": 2
+    },
+    {
+      "name" : "furniture 3",
+      "description" : "This is iron furniture-3",
+      "measurements" : "H25 cm-3",
+      "material" : "Material name-3",
+      "wire": "Wire name-3",
+      "condition": "Brand new-3",
+      "sku number": "SKU number-3",
+      "shipping": "Shipping Worldwide-3",
+      "warranty": "1 year-3",
+      "delivery": "Choose country-3",
+      "id": 3 
+    },
+    {
+      "name" : "furniture 4",
+      "description" : "This is bamboo stick furniture-4",
+      "measurements" : "H25 cm-4",
+      "material" : "Material name-4",
+      "wire": "Wire name-4",
+      "condition": "Brand new-4",
+      "sku number": "SKU number-4",
+      "shipping": "Shipping Worldwide-4",
+      "warranty": "1 year-4",
+      "delivery": "Choose country-4",
+      "id": 4 
+    },
+    {
+      "name" : "furniture 5",
+      "description" : "This is plastic furniture-5",
+      "measurements" : "H25 cm-5",
+      "material" : "Material name-5",
+      "wire": "Wire name-5",
+      "condition": "Brand new-5",
+      "sku number": "SKU number-5",
+      "shipping": "Shipping Worldwide-5",
+      "warranty": "1 year-5",
+      "delivery": "Choose country-5",
+      "id": 5 
+    },
+    {
+      "name" : "furniture 6",
+      "description" : "This is sal kath furniture-6",
+      "measurements" : "H25 cm-6",
+      "material" : "Material name-6",
+      "wire": "Wire name-6",
+      "condition": "Brand new-6",
+      "sku number": "SKU number-6",
+      "shipping": "Shipping Worldwide-6",
+      "warranty": "1 year-6",
+      "delivery": "Choose country-6",
+      "id": 6 
+    },
+    {
+      "name" : "furniture 7",
+      "description" : "This is segun kath furniture-7",
+      "measurements" : "H25 cm-7",
+      "material" : "Material name-7",
+      "wire": "Wire name-7",
+      "condition": "Brand new-7",
+      "sku number": "SKU number-7",
+      "shipping": "Shipping Worldwide-7",
+      "warranty": "1 year-7",
+      "delivery": "Choose country-7",
+      "id": 7 
+    },
+    {
+      "name" : "furniture 8",
+      "description" : "This is woolen cum plastic furniture-8",
+      "measurements" : "H25 cm-8",
+      "material" : "Material name-8",
+      "wire": "Wire name-8",
+      "condition": "Brand new-8",
+      "sku number": "SKU number-8",
+      "shipping": "Shipping Worldwide-8",
+      "warranty": "1 year-8",
+      "delivery": "Choose country-8",
+      "id": 8 
+    }
+  ]
+}
